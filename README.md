@@ -17,7 +17,6 @@ This project demonstrates a complete DevOps pipeline using **GitHub Actions** fo
 - Docker & DockerHub
 - Docker Buildx
 - AWS EC2 (Amazon Linux 2 / Ubuntu)
-- Ansible (optional)
 - Bash scripting (for conditional installs)
 
 ---
